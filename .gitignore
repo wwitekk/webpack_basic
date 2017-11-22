@@ -1,5 +1,2 @@
 node_modules/
-.idea/
-settings.js
-settings-dev.js
-script-compiled.js
+dist/
